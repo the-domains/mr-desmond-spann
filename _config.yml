@@ -1,0 +1,28 @@
+name: MR. Desmond Spann
+favicon: null
+layout_spectrum: 0.5859257187694311
+typography_spectrum: 0.40483816945925355
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.26291736285202205
+  lightness: 0.3594962414354086
+  saturation: 0.5293900726828724
+  rhythmicContrast: 0.9722582292743027
+purpose: []
